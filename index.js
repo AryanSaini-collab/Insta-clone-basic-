@@ -35,10 +35,5 @@ document.querySelector('.heart').addEventListener('click',function(){
 })
 
 
-likes=document.getElementById('no1')
-document.querySelector('.heart').addEventListener('click',function(){
-    likes.innerHTML=`15,124 likes`
-
-})
 
 
